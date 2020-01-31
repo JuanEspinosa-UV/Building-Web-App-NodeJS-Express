@@ -1,0 +1,28 @@
+{
+  "name": "Building-Web-App-NodeJS-Express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanEspinosa-UV/Building-Web-App-NodeJS-Express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanEspinosa-UV/Building-Web-App-NodeJS-Express/issues"
+  },
+  "homepage": "https://github.com/JuanEspinosa-UV/Building-Web-App-NodeJS-Express#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "chalk": "^3.0.0",
+    "debug": "^4.1.1",
+    "express": "^4.17.1",
+    "jquery": "^3.4.1",
+    "morgan": "^1.9.1"
+  }
+}
